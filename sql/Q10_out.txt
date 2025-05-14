@@ -1,0 +1,4 @@
+Genre1,Genre2,appearances
+Hip-Hop,Rock,6
+Jazz,Reggae,3
+Pop,Reggae,3

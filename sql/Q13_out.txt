@@ -1,0 +1,2 @@
+artist_id,name,continent_count
+45,"Robert Pearson",3

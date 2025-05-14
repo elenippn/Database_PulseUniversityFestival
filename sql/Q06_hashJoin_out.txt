@@ -1,0 +1,3 @@
+join_strategy,performance_id,type,avg_impression
+HASH_JOIN,34,"Special Guest",4.00
+HASH_JOIN,66,Encore,3.00

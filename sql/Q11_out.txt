@@ -1,0 +1,23 @@
+artist_id,name,festival_count
+20,"Mark Stevens",1
+23,"Carlos Browning",1
+25,"Stephen Hoffman",1
+26,"Michael Paul",1
+30,"Theresa Williams",1
+31,"Charles Martinez",1
+1,"Patrick Tapia",1
+36,"Heather White",1
+2,"William Tran",1
+41,"Michelle Butler",1
+4,"Lisa Gibbs",1
+43,"Mary Thompson",1
+7,"Dillon Fernandez",1
+44,"Rebecca Vargas",1
+8,"Jessica Ramirez",1
+46,"Wendy Warren",1
+10,"Lori Wolf",1
+49,"Jack White",1
+11,"Willie Durham",1
+12,"Dorothy Thornton",1
+17,"Amanda Jones",1
+19,"Michael White",1

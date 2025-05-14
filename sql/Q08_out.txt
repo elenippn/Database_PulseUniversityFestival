@@ -1,0 +1,5 @@
+staff_id,name,age
+10,"Julia Ross",30
+12,"Stelios Vantarakis",12
+22,"Sofia Ruiz",23
+26,"Aisha Khan",26

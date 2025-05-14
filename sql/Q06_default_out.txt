@@ -1,0 +1,3 @@
+join_strategy,performance_id,type,avg_impression
+DEFAULT,34,"Special Guest",4.00
+DEFAULT,66,Encore,3.00

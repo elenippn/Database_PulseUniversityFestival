@@ -1,0 +1,41 @@
+year,payment_method,total_revenue
+2017,"Credit Card",525.60
+2017,"Debit Card",270.15
+2017,"Bank Transfer",725.95
+2017,Total,1521.70
+2018,"Credit Card",281.02
+2018,"Debit Card",527.24
+2018,"Bank Transfer",129.32
+2018,Total,937.58
+2019,"Credit Card",542.20
+2019,"Debit Card",463.15
+2019,"Bank Transfer",568.31
+2019,Total,1573.66
+2020,"Credit Card",178.61
+2020,"Debit Card",414.93
+2020,"Bank Transfer",659.11
+2020,Total,1252.65
+2021,"Credit Card",290.74
+2021,"Debit Card",772.34
+2021,"Bank Transfer",396.14
+2021,Total,1459.22
+2022,"Credit Card",449.16
+2022,"Debit Card",388.92
+2022,"Bank Transfer",162.53
+2022,Total,1000.61
+2023,"Credit Card",293.17
+2023,"Debit Card",316.10
+2023,"Bank Transfer",559.52
+2023,Total,1168.79
+2024,"Credit Card",275.75
+2024,"Debit Card",476.88
+2024,"Bank Transfer",632.59
+2024,Total,1385.22
+2025,"Credit Card",228.24
+2025,"Debit Card",313.89
+2025,"Bank Transfer",191.87
+2025,Total,734.00
+2026,"Credit Card",490.84
+2026,"Debit Card",516.76
+2026,"Bank Transfer",184.49
+2026,Total,1192.09
